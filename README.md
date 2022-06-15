@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Nishadatgit
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning flutter development
-- 💞️ I’m looking to collaborate on mern stack projects and android flutter projects
+- 👋 Hi, I’m Mohamed Nishad
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking for collaborations on flutter projects
 - 📫 reach me on nishadns321@gmail.com or 7356027078
 
 <!---
