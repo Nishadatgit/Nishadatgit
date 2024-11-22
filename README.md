@@ -1,9 +1,23 @@
-- 👋 Hi, I’m Mohamed Nishad
-- 🌱 I’m a flutter developer
-- 💞️ I’m looking forward to improve skills on flutter 
-- 📫 get me on nishadns321@gmail.com
+👋 Hi, I'm Mohamed Nishad
 
-<!---
-Nishadatgit/Nishadatgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💫 About Me
+Mobile App Developer with a passion for crafting elegant, user-friendly applications using Flutter. Currently diving deep into Object-Oriented Design principles to create more maintainable and scalable software solutions.
+🛠️ Tech Stack
+
+📱 Mobile Development: Flutter, Dart
+🎨 UI/UX: Material Design, Cupertino
+🏗️ Architecture: Clean Architecture, MVVM
+🔧 Tools: Git, VS Code, Android Studio
+
+🌱 Currently Learning
+
+Advanced Object-Oriented Design Patterns
+Software Architecture Principles
+Clean Code Practices
+
+
+🤝 Let's Connect
+
+Open to collaborating on Flutter projects
+Interested in mobile app development opportunities
+Always eager to learn and share knowledge with the community
