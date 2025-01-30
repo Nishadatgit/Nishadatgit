@@ -15,7 +15,7 @@ Mobile App Developer with a passion for crafting elegant, user-friendly applicat
 ## 🛠️ Tech Stack
 - 📱 **Mobile Development:** Flutter, Dart
 - 🎨 **UI/UX:** Material Design, Cupertino
-- 🏗️ **Architecture:** Clean Architecture, MVVM
+- 🏗️ **Architecture:** Bloc Architecture, MVVM
 - 🔧 **Tools:** Git, VS Code, Android Studio
 
 ## 🌱 Currently Learning
